@@ -1,0 +1,9 @@
+{
+    "plugins": [
+        "expandable-chapters-small",
+        "alerts"
+    ],
+    "pluginsConfig": {
+        "expandable-chapters-small":{}
+    }
+}
