@@ -28,3 +28,65 @@
 
 为了实现可靠地、可扩展的、可维护的数据系统，这章我们将从基础开始探索。我们将会阐述这些概念的定义，勾勒对这些概念进行思考的方式，给随后章节
 打下基础。在随后的章节中，我们将会对数据密集型应用中每一层的设计决策进行思考。
+
+
+#引用
+<a id="b1_c1_1"></a>
+[1] Michael Stonebraker and Uğur Çetintemel: 
+“[**‘One Size Fits All’: An Idea Whose Time Has Come and Gone**](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.68.9136&rep=rep1&type=pdf),” 
+at *21st International Conference on Data Engineering* (ICDE), April 2005.
+
+<a id="b1_c1_2"></a>
+[2] Walter L. Heimerdinger and Charles B. Weinstock: 
+“[**A Conceptual Framework for System Fault Tolerance**](https://www.sei.cmu.edu/reports/92tr033.pdf),” 
+Technical Report CMU/SEI-92-TR-033, Software Engineering Institute, Carnegie Mellon University, October 1992.
+
+<a id="b1_c1_3"></a>
+[3] Ding Yuan, Yu Luo, Xin Zhuang, et al.: 
+“[**Simple Testing Can Prevent Most Criti‐ cal Failures: An Analysis of Production Failures in Distributed Data-Intensive Sys‐ tems**](https://www.usenix.org/system/files/conference/osdi14/osdi14-paper-yuan.pdf),” 
+at *11th USENIX Symposium on Operating Systems Design and Implementation* (OSDI), October 2014.
+
+<a id="b1_c1_4"></a>
+[4] Yury Izrailevsky and Ariel Tseitlin: 
+“[**The Netflix Simian Army**](http://techblog.netflix.com/2011/07/netflix-simian-army.html),” 
+*techblog.netflix.com*, July 19, 2011.
+
+<a id="b1_c1_5"></a>
+[5] Daniel Ford, François Labelle, Florentina I. Popovici, et al.: 
+“[**Availability in Glob‐ ally Distributed Storage Systems**](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/36737.pdf),” 
+at *9th USENIX Symposium on Operating Systems Design and Implementation* (OSDI), October 2010.
+
+<a id="b1_c1_6"></a>
+[6] Brian Beach: 
+“[**Hard Drive Reliability Update – Sep 2014**](https://www.backblaze.com/blog/hard-drive-reliability-update-september-2014/),” 
+*backblaze.com*, September 23, 2014.
+
+<a id="b1_c1_7"></a>
+[7] Laurie Voss: 
+“[**AWS: The Good, the Bad and the Ugly**](https://web.archive.org/web/20160429075023/http://blog.awe.sm/2012/12/18/aws-the-good-the-bad-and-the-ugly/),” 
+*blog.awe.sm*, December 18, 2012.
+
+<a id="b1_c1_8"></a>
+[8] Haryadi S. Gunawi, Mingzhe Hao, Tanakorn Leesatapornwongsa, et al.: 
+“[**What Bugs Live in the Cloud?**](http://ucare.cs.uchicago.edu/pdf/socc14-cbs.pdf),” 
+at *5th ACM Symposium on Cloud Computing* (SoCC), November 2014. [**doi:10.1145/2670979.2670986**](http://dx.doi.org/10.1145/2670979.2670986)
+
+<a id="b1_c1_9"></a>
+[9] Nelson Minar: 
+“[**Leap Second Crashes Half the Internet**](http://www.somebits.com/weblog/tech/bad/leap-second-2012.html),” 
+*somebits.com*, July 3, 2012.
+
+<a id="b1_c1_10"></a>
+[10] Amazon Web Services: 
+“[**Summary of the Amazon EC2 and Amazon RDS Ser‐ vice Disruption in the US East Region**](https://aws.amazon.com/cn/message/65648/),” 
+*aws.amazon.com*, April 29, 2011.
+
+<a id="b1_c1_11"></a>
+[11] Richard I. Cook: 
+“[**How Complex Systems Fail**](http://web.mit.edu/2.75/resources/random/How%20Complex%20Systems%20Fail.pdf),” 
+Cognitive Technologies Laboratory, April 2000.
+
+<a id="b1_c1_12"></a>
+[12] Jay Kreps: 
+“[**Getting Real About Distributed System Reliability**](http://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability),” 
+*blog.empathybox.com*, March 19, 2012.
