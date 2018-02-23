@@ -90,3 +90,9 @@ Cognitive Technologies Laboratory, April 2000.
 [12] Jay Kreps: 
 “[**Getting Real About Distributed System Reliability**](http://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability),” 
 *blog.empathybox.com*, March 19, 2012.
+
+<a id="b1_c1_13"></a>
+[13] David Oppenheimer, Archana Ganapathi, and David A. Patterson: 
+“[**Why Do Internet Services Fail, and What Can Be Done About It?**](http://static.usenix.org/legacy/events/usits03/tech/full_papers/oppenheimer/oppenheimer.pdf),” 
+at *4th USENIX Symposium on Internet Technologies and Systems* (USITS), March 2003.
+
