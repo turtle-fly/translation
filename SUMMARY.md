@@ -10,6 +10,7 @@
             * [硬件错误](designing_data_intensive_applications/p1/c1/2-1_hardware_faults.md)
             * [软件错误](designing_data_intensive_applications/p1/c1/2-2_software_errors.md)
             * [人为错误](designing_data_intensive_applications/p1/c1/2-3_human_errors.md)
+            * [可靠性有多重要？](designing_data_intensive_applications/p1/c1/2-4_how_important.md)
         * [可扩展性](designing_data_intensive_applications/p1/c1/3_scalability.md)
         * [可维护性](designing_data_intensive_applications/p1/c1/4_maintainability.md)
     * [C2 数据模型与查询语言](designing_data_intensive_applications/p1/c2/README.md)

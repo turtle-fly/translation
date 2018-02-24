@@ -96,3 +96,12 @@ Cognitive Technologies Laboratory, April 2000.
 “[**Why Do Internet Services Fail, and What Can Be Done About It?**](http://static.usenix.org/legacy/events/usits03/tech/full_papers/oppenheimer/oppenheimer.pdf),” 
 at *4th USENIX Symposium on Internet Technologies and Systems* (USITS), March 2003.
 
+<a id="b1_c1_14"></a>
+[14] Nathan Marz: 
+“[**Principles of Software Engineering, Part 1**](http://nathanmarz.com/blog/principles-of-software-engineering-part-1.html),” 
+*nathanmarz.com*, April 2, 2013.
+
+<a id="b1_c1_15"></a>
+[15] Michael Jurewitz: 
+“[**The Human Impact of Bugs**](http://jury.me/blog/2013/3/14/the-human-impact-of-bugs),” 
+*jury.me*, March 15, 2013.
